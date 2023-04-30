@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\BuildingPlans\bin\Debug\BuildingPlans.exe.config
+C:\Users\mdbul\source\repos\BuildingPlans\bin\Debug\BuildingPlans.exe
+C:\Users\mdbul\source\repos\BuildingPlans\bin\Debug\BuildingPlans.pdb
+C:\Users\mdbul\source\repos\BuildingPlans\bin\Debug\BuildingPlans.xml
+C:\Users\mdbul\source\repos\BuildingPlans\obj\Debug\BuildingPlans.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\BuildingPlans\obj\Debug\BuildingPlans.Resources.resources
+C:\Users\mdbul\source\repos\BuildingPlans\obj\Debug\BuildingPlans.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\BuildingPlans\obj\Debug\BuildingPlans.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\BuildingPlans\obj\Debug\BuildingPlans.exe
+C:\Users\mdbul\source\repos\BuildingPlans\obj\Debug\BuildingPlans.xml
+C:\Users\mdbul\source\repos\BuildingPlans\obj\Debug\BuildingPlans.pdb
+C:\Users\mdbul\source\repos\BuildingPlans\obj\Debug\BuildingPlans.frmBuilding.resources
